@@ -6,12 +6,11 @@
 /*   By: hsetya <hsetya@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/15 17:06:31 by hsetyamu          #+#    #+#             */
-/*   Updated: 2024/01/21 17:47:47 by hsetya           ###   ########.fr       */
+/*   Updated: 2024/01/21 18:03:30 by hsetya           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "./includes/ft_printf.h"
-#include <stdio.h>
 
 static int	conv_id_check(const char c, va_list varg);
 
