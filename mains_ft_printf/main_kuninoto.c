@@ -15,6 +15,10 @@
 #include <stdio.h>
 #include <limits.h>
 
+/* ccexa -n main_kuninoto.c ft_printf.c ft_printf_c.c ft_printf_s.c ft_printf_di.c ft_printf_u.c ft_printf_hex.c ft_printf_p.c ./libft/ft_strdup.c ./libft/ft_putchar_fd.c ./libft/ft_itoa.c ./libft/ft_strlen.c ./libft/ft_strlcpy.c*/ 
+
+/* cc -Wall -Werror -Wextra main_kuninoto.c ft_printf.c ft_printf_c.c ft_printf_s.c ft_printf_di.c ft_printf_u.c ft_printf_hex.c ft_printf_p.c ./libft/ft_strdup.c ./libft/ft_putchar_fd.c ./libft/ft_itoa.c ./libft/ft_strlen.c ./libft/ft_strlcpy.c*/ 
+
 int main(void)
 {
 	int output_OG;
