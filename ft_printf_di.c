@@ -19,5 +19,6 @@ int	ft_printf_di(int nbr)
 
 	res = ft_itoa(nbr);
 	cnt = ft_printf_s(res);
+	free (res);
 	return (cnt);
 }

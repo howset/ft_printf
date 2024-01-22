@@ -22,6 +22,7 @@ int	ft_printf_u(unsigned int n)
 
 	res = ft_itoa_u(n);
 	cnt = ft_printf_s(res);
+	free (res);
 	return (cnt);
 }
 
