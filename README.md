@@ -12,7 +12,7 @@ ft_printf
  ┣ libft
  ┃ ┣ Makefile
  ┃ ┣ ft_atoi.c
- ┃ ┗ ft everything else
+ ┃ ┗ ft_[everything else].c
  ┣ mains_ft_printf
  ┃ ┣ main_ft_printf.c
  ┃ ┗ main_kuninoto.c
